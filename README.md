@@ -1,3 +1,5 @@
+[![ci](https://github.com/OdearOgy/cicd-starter/actions/workflows/ci.yml/badge.svg)](https://github.com/OdearOgy/cicd-starter/actions/workflows/ci.yml)
+
 # learn-cicd-starter (Notely)
 
 OdearOgy's version of Boot.dev's Notely app
